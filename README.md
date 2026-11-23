@@ -11,8 +11,10 @@
 ```python
 pavitra = {
     "based_in":   "Delhi, India",
-    "by_day":     "Class 12, preparing for Boards 2027 and JEE",
+    "by_day":     "Class 12, CBSE boards",
     "by_night":   "shipping apps, bots and browser extensions",
+    "learning":   ["RAG", "LLM fine-tuning"],
+    "next_stop":  "SAT and IELTS, then university abroad",
     "started_on": "Python, then the web, now a bit of everything",
     "peak_hours": "23:00 – 03:00 IST",
     "motto":      "build the thing that makes the internet cooler",
@@ -41,7 +43,8 @@ I started with Python and bots, moved to the web, and now build native Mac apps 
 
 ## Right now
 
-- Juggling physics derivations and pull requests
+- Learning how RAG pipelines and LLM fine-tuning actually work, by building with them
+- Juggling CBSE boards and pull requests, with SAT and IELTS next
 - Polishing FreeMyMac one release at a time
 - Turning more of my own problems into tools other people can use
 
