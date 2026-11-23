@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 150" width="1200" height="150" role="img" aria-label="Lights out. See you at the next commit.">
+  <title>Lights out — see you at the next commit</title>
+  <defs>
+    <linearGradient id="fsky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#121a33"/>
+      <stop offset="1" stop-color="#1d2547"/>
+    </linearGradient>
+    <style>
+      @keyframes tw { 0%,100% { opacity:.15 } 50% { opacity:.9 } }
+      @keyframes off { 0%,60% { opacity:.45 } 70%,100% { opacity:.05 } }
+      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+      @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+    </style>
+  </defs>
+  <rect width="1200" height="150" fill="url(#fsky)"/>
+  <g>
+    <circle cx="858.0" cy="38.8" r="1.2" fill="#f4ecd8" style="animation:tw 4.53s ease-in-out 2.94s infinite"/>
+    <circle cx="167.2" cy="39.5" r="1.6" fill="#f4ecd8" style="animation:tw 4.53s ease-in-out 2.27s infinite"/>
+    <circle cx="19.3" cy="49.9" r="0.8" fill="#f4ecd8" style="animation:tw 2.6s ease-in-out 0.34s infinite"/>
+    <circle cx="764.5" cy="67.4" r="1.2" fill="#f4ecd8" style="animation:tw 3.9s ease-in-out 3.34s infinite"/>
+    <circle cx="753.3" cy="46.1" r="0.8" fill="#f4ecd8" style="animation:tw 2.51s ease-in-out 1.96s infinite"/>
+    <circle cx="957.2" cy="53.9" r="1.6" fill="#f4ecd8" style="animation:tw 2.73s ease-in-out 3.59s infinite"/>
+    <circle cx="631.2" cy="53.7" r="1.2" fill="#f4ecd8" style="animation:tw 2.69s ease-in-out 1.01s infinite"/>
+    <circle cx="318.7" cy="52.7" r="0.8" fill="#f4ecd8" style="animation:tw 4.12s ease-in-out 0.92s infinite"/>
+    <circle cx="552.4" cy="60.1" r="0.6" fill="#f4ecd8" style="animation:tw 4.21s ease-in-out 1.92s infinite"/>
+    <circle cx="920.4" cy="45.5" r="0.8" fill="#f4ecd8" style="animation:tw 2.87s ease-in-out 0.31s infinite"/>
+    <circle cx="304.7" cy="53.6" r="1" fill="#f4ecd8" style="animation:tw 2.83s ease-in-out 2.48s infinite"/>
+    <circle cx="578.9" cy="37.1" r="0.6" fill="#f4ecd8" style="animation:tw 4.19s ease-in-out 2.77s infinite"/>
+    <circle cx="349.0" cy="39.1" r="1.2" fill="#f4ecd8" style="animation:tw 4.42s ease-in-out 1.86s infinite"/>
+    <circle cx="1192.0" cy="41.1" r="1" fill="#f4ecd8" style="animation:tw 4.84s ease-in-out 3.91s infinite"/>
+    <circle cx="21.0" cy="35.4" r="1.6" fill="#f4ecd8" style="animation:tw 3.62s ease-in-out 3.87s infinite"/>
+    <circle cx="322.4" cy="19.4" r="0.8" fill="#f4ecd8" style="animation:tw 2.73s ease-in-out 0.3s infinite"/>
+    <circle cx="897.0" cy="22.8" r="1" fill="#f4ecd8" style="animation:tw 4.55s ease-in-out 0.53s infinite"/>
+    <circle cx="610.5" cy="62.8" r="1" fill="#f4ecd8" style="animation:tw 4.74s ease-in-out 0.93s infinite"/>
+    <circle cx="583.4" cy="7.6" r="0.6" fill="#f4ecd8" style="animation:tw 4.2s ease-in-out 3.8s infinite"/>
+    <circle cx="486.5" cy="52.5" r="1.2" fill="#f4ecd8" style="animation:tw 3.29s ease-in-out 1.38s infinite"/>
+    <circle cx="1008.3" cy="6.1" r="1" fill="#f4ecd8" style="animation:tw 2.8s ease-in-out 3.36s infinite"/>
+    <circle cx="1111.7" cy="51.6" r="1" fill="#f4ecd8" style="animation:tw 2.66s ease-in-out 1.01s infinite"/>
+    <circle cx="468.2" cy="61.7" r="0.6" fill="#f4ecd8" style="animation:tw 3.57s ease-in-out 1.44s infinite"/>
+    <circle cx="330.2" cy="9.1" r="0.6" fill="#f4ecd8" style="animation:tw 4.15s ease-in-out 0.21s infinite"/>
+    <circle cx="762.0" cy="15.5" r="1" fill="#f4ecd8" style="animation:tw 3.29s ease-in-out 1.74s infinite"/>
+    <circle cx="927.8" cy="56.2" r="1.2" fill="#f4ecd8" style="animation:tw 4.53s ease-in-out 3.54s infinite"/>
+    <circle cx="757.1" cy="64.5" r="1.6" fill="#f4ecd8" style="animation:tw 4.3s ease-in-out 2.2s infinite"/>
+    <circle cx="59.4" cy="52.9" r="1.2" fill="#f4ecd8" style="animation:tw 2.85s ease-in-out 2.46s infinite"/>
+    <circle cx="1043.4" cy="37.1" r="1.6" fill="#f4ecd8" style="animation:tw 3.68s ease-in-out 0.51s infinite"/>
+    <circle cx="412.4" cy="25.1" r="1" fill="#f4ecd8" style="animation:tw 3.1s ease-in-out 1.62s infinite"/>
+    <circle cx="579.8" cy="48.8" r="0.6" fill="#f4ecd8" style="animation:tw 2.9s ease-in-out 0.67s infinite"/>
+    <circle cx="249.4" cy="64.0" r="1.2" fill="#f4ecd8" style="animation:tw 3.63s ease-in-out 2.2s infinite"/>
+    <circle cx="399.4" cy="54.6" r="1.2" fill="#f4ecd8" style="animation:tw 2.98s ease-in-out 0.56s infinite"/>
+    <circle cx="108.9" cy="27.9" r="0.6" fill="#f4ecd8" style="animation:tw 3.42s ease-in-out 1.28s infinite"/>
+    <circle cx="971.2" cy="18.9" r="0.6" fill="#f4ecd8" style="animation:tw 3.53s ease-in-out 3.0s infinite"/>
+    <circle cx="496.7" cy="39.5" r="1.2" fill="#f4ecd8" style="animation:tw 4.38s ease-in-out 1.08s infinite"/>
+    <circle cx="597.8" cy="42.8" r="1" fill="#f4ecd8" style="animation:tw 3.76s ease-in-out 0.5s infinite"/>
+    <circle cx="755.6" cy="61.2" r="0.8" fill="#f4ecd8" style="animation:tw 4.74s ease-in-out 0.37s infinite"/>
+    <circle cx="461.5" cy="47.3" r="1.2" fill="#f4ecd8" style="animation:tw 4.62s ease-in-out 3.82s infinite"/>
+    <circle cx="1047.5" cy="7.4" r="0.6" fill="#f4ecd8" style="animation:tw 4.41s ease-in-out 1.7s infinite"/>
+  </g>
+  <text x="600" y="48" text-anchor="middle" class="mono" font-size="15" fill="#8a93b3" letter-spacing="1">03:00 · lights out · see you at the next commit</text>
+  <g fill="#060912"><rect x="0" y="93" width="66" height="59"/><rect x="71" y="126" width="78" height="26"/><rect x="153" y="95" width="38" height="57"/><rect x="195" y="116" width="91" height="36"/><rect x="290" y="123" width="91" height="29"/><rect x="384" y="110" width="44" height="42"/><rect x="429" y="125" width="96" height="27"/><rect x="527" y="123" width="59" height="29"/><rect x="587" y="122" width="53" height="30"/><rect x="645" y="116" width="73" height="36"/><rect x="718" y="102" width="63" height="50"/><rect x="787" y="87" width="76" height="65"/><rect x="867" y="92" width="68" height="60"/><rect x="938" y="123" width="76" height="29"/><rect x="1019" y="112" width="63" height="40"/><rect x="1087" y="89" width="92" height="63"/><rect x="1180" y="126" width="75" height="26"/></g>
+  <g><rect x="161" y="105" width="6" height="8" rx="1" fill="#ffb547" opacity="0.4" style="animation:off 6s ease-in 2.35s infinite"/><rect x="175" y="105" width="6" height="8" rx="1" fill="#ffb547" opacity="0.4" style="animation:off 6s ease-in 1.58s infinite"/><rect x="354" y="133" width="6" height="8" rx="1" fill="#ffb547" opacity="0.4" style="animation:off 6s ease-in 1.2s infinite"/><rect x="406" y="136" width="6" height="8" rx="1" fill="#ffb547" opacity="0.4" style="animation:off 6s ease-in 2.52s infinite"/><rect x="479" y="135" width="6" height="8" rx="1" fill="#ffb547" opacity="0.4" style="animation:off 6s ease-in 0.34s infinite"/><rect x="549" y="133" width="6" height="8" rx="1" fill="#ffb547" opacity="0.4" style="animation:off 6s ease-in 3.83s infinite"/><rect x="595" y="132" width="6" height="8" rx="1" fill="#ffb547" opacity="0.4" style="animation:off 6s ease-in 3.41s infinite"/><rect x="740" y="112" width="6" height="8" rx="1" fill="#ffb547" opacity="0.4" style="animation:off 6s ease-in 0.62s infinite"/><rect x="754" y="128" width="6" height="8" rx="1" fill="#ffb547" opacity="0.4" style="animation:off 6s ease-in 3.57s infinite"/><rect x="809" y="97" width="6" height="8" rx="1" fill="#ffb547" opacity="0.4" style="animation:off 6s ease-in 3.14s infinite"/><rect x="851" y="97" width="6" height="8" rx="1" fill="#ffb547" opacity="0.4" style="animation:off 6s ease-in 2.39s infinite"/><rect x="837" y="113" width="6" height="8" rx="1" fill="#ffb547" opacity="0.4" style="animation:off 6s ease-in 3.06s infinite"/><rect x="809" y="129" width="6" height="8" rx="1" fill="#ffb547" opacity="0.4" style="animation:off 6s ease-in 2.88s infinite"/><rect x="960" y="133" width="6" height="8" rx="1" fill="#ffb547" opacity="0.4" style="animation:off 6s ease-in 1.98s infinite"/><rect x="974" y="133" width="6" height="8" rx="1" fill="#ffb547" opacity="0.4" style="animation:off 6s ease-in 1.14s infinite"/><rect x="1151" y="99" width="6" height="8" rx="1" fill="#ffb547" opacity="0.4" style="animation:off 6s ease-in 2.47s infinite"/><rect x="1109" y="115" width="6" height="8" rx="1" fill="#ffb547" opacity="0.4" style="animation:off 6s ease-in 0.58s infinite"/><rect x="1244" y="136" width="6" height="8" rx="1" fill="#ffb547" opacity="0.4" style="animation:off 6s ease-in 3.3s infinite"/></g>
+</svg>
