@@ -57,7 +57,7 @@ I started with Python and bots, moved to the web, and now build native Mac apps 
 
 Up for collaborating on something meaningful, or just talking code at 2 AM.
 
-**Discord** `x465` · **Email** [pavisj@icloud.com](mailto:pavisj@icloud.com) · **Instagram** [@xpavilyon](https://www.instagram.com/xpavilyon) / [@cosecthetha](https://www.instagram.com/cosecthetha)
+**Discord** `x465` · **LinkedIn** [xpavilyon](https://www.linkedin.com/in/xpavilyon) · **Email** [pavisj@icloud.com](mailto:pavisj@icloud.com) · **Instagram** [@xpavilyon](https://www.instagram.com/xpavilyon) / [@cosecthetha](https://www.instagram.com/cosecthetha)
 
 <br>
 
