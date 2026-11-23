@@ -27,11 +27,12 @@ My own bugs, and the fixes I wrote for them.
 
 | The problem (my fault) | The fix (also mine) |
 | :-- | :-- |
+| Every Discord bot I tried did half of what my server needed | **RAVEN**: one bot for music, moderation, automod, antinuke, tickets, leveling and logs, with a web dashboard. Now in **400+ servers** with **250k+ users**.<br><sub>Python · py-cord · Lavalink · SvelteKit · Postgres · Redis</sub> |
 | Filled my Mac's SSD with *something* and couldn't tell what | **[FreeMyMac](https://github.com/GWPx7Pavitra/freemymac)**: a native macOS storage manager. See where the space went and free it in a click or two.<br><sub>Swift · SwiftUI · [latest release](https://github.com/GWPx7Pavitra/freemymac/releases/latest)</sub> |
 | Breathed Delhi air every day without knowing how bad it was | **[Nearfield](https://github.com/GWPx7Pavitra/nearfield)**: hyperlocal air quality and groundwater for your neighbourhood, including how many cigarettes the air equals today.<br><sub>OpenStreetMap · CPCB · CGWB · [live site](https://nearfield-preview.campuszzone.workers.dev)</sub> |
 | My Discord server needed moderation, tickets and music, all in one bot | **[squarebotcogs](https://github.com/GWPx7Pavitra/squarebotcogs)**: Python cogs for automod, mod logs, tickets and music.<br><sub>Python · discord.py</sub> |
-| Opened YouTube "for five minutes" | A new-tab page that shows per-site screen time for Chrome and Brave.<br><sub>JavaScript · private for now</sub> |
-| Boards 2027 are coming and my notes were everywhere | A study planner with interactive chapter notes, labs and drills.<br><sub>TypeScript · private for now</sub> |
+| Opened YouTube "for five minutes" | **[nightshift](https://github.com/GWPx7Pavitra/nightshift)**: a new-tab page that shows per-site screen time for Chrome and Brave, synced across browsers.<br><sub>JavaScript · browser extension</sub> |
+| Boards 2027 are coming and my notes were everywhere | **[boards-2027](https://github.com/GWPx7Pavitra/boards-2027)**: a study planner with interactive chapter notes, labs, drills and an Android app.<br><sub>TypeScript · React · Node · Capacitor · [live](https://study.plagmo.art)</sub> |
 
 ## Toolbox
 
