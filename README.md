@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Pavitra: solving problems I created myself. A night skyline over Delhi with one window still lit.">
+  <img src="assets/header.svg" width="100%" alt="Pavitra. Student, builder, night owl. A night skyline over Delhi with one window still lit.">
 </p>
 
 <p align="center">
-  <i>Student by day, developer after midnight. Every project below started as a problem I made for myself.</i>
+  <i>Class 12 student in Delhi. I build apps, bots and websites, mostly after midnight.</i>
 </p>
 
 <p align="center">
-  <a href="https://gwpx7pavitra.github.io"><b>gwpx7pavitra.github.io</b></a> · the 5-second, 30-second or 3-minute version of me
+  <a href="https://gwpx7pavitra.github.io"><b>gwpx7pavitra.github.io</b></a> · my portfolio
 </p>
 
 <br>
@@ -25,11 +25,9 @@ pavitra = {
 }
 ```
 
-## The problem → solution ledger
+## What I build
 
-My own bugs, and the fixes I wrote for them.
-
-| The problem (my fault) | The fix (also mine) |
+| The problem | What I built |
 | :-- | :-- |
 | Every Discord bot I tried did half of what my server needed | **RAVEN**: one bot for music, moderation, automod, antinuke, tickets, leveling and logs, with a web dashboard. Now in **400+ servers** with **250k+ users**.<br><sub>Python · py-cord · Lavalink · SvelteKit · Postgres · Redis</sub> |
 | Filled my Mac's SSD with *something* and couldn't tell what | **[FreeMyMac](https://github.com/GWPx7Pavitra/freemymac)**: a native macOS storage manager. See where the space went and free it in a click or two.<br><sub>Swift · SwiftUI · [latest release](https://github.com/GWPx7Pavitra/freemymac/releases/latest)</sub> |
