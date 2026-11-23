@@ -6,6 +6,10 @@
   <i>Student by day, developer after midnight. Every project below started as a problem I made for myself.</i>
 </p>
 
+<p align="center">
+  <a href="https://gwpx7pavitra.github.io"><b>gwpx7pavitra.github.io</b></a> · the 5-second, 30-second or 3-minute version of me
+</p>
+
 <br>
 
 ```python
