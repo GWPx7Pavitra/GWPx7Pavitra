@@ -34,6 +34,8 @@ My own bugs, and the fixes I wrote for them.
 | Opened YouTube "for five minutes" | **[nightshift](https://github.com/GWPx7Pavitra/nightshift)**: a new-tab page that shows per-site screen time for Chrome and Brave, synced across browsers.<br><sub>JavaScript · browser extension</sub> |
 | Boards 2027 are coming and my notes were everywhere | **[boards-2027](https://github.com/GWPx7Pavitra/boards-2027)**: a study planner with interactive chapter notes, labs, drills and an Android app.<br><sub>TypeScript · React · Node · Capacitor · [live](https://study.plagmo.art)</sub> |
 
+**More I've built:** **CampusZone** (placement prep, college ERP and events in one platform, with dashboards for seven roles) · **spectre** (our HackerRank Orchestrate agent that checks whether deleted data is really gone) · **CoconutMcBot** (tickets and moderation for the coconutmc.net Minecraft server) · **Lyrix** (live Spotify lyrics overlay) · **Plagmo-Verse** (my own study and focus tools) · **[Cre8ivize](https://cre8ivize.com)** (site for an influencer agency) · **GWP Panel** (a local LLM gateway)
+
 ## Toolbox
 
 <p>
